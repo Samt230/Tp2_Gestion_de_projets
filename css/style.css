@@ -2,6 +2,15 @@ body {
     font-family: Arial, sans-serif;
     margin: 0px;
   }
+
+  section.sam{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: cornflowerblue;
+    padding: 50px;
+    border-radius: 20px;
+  }
   
   header {
     display: flex;
@@ -20,9 +29,11 @@ body {
   nav ul {
     list-style: none;
     display: flex;
+    flex-wrap: wrap;
   }
   
   nav li {
+    height: 35px;
     margin-right: 20px;
   }
   
