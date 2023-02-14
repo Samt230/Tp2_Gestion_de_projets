@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Environnement de développement web 1</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<body>
+<<<<<<< HEAD
+    <header class="membre1">
+        <h1>Environement de développement web 1</h1>        
+=======
+    <header class="william">
+        <h1>Environnement de développement web 1</h1>        
+>>>>>>> ae89babf13cd07b4ee7b36e99e92b8b558d5e0ed
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>                
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h3>Connaissances</h3>
+            <h4>Théoriques (quels sont les notions que vous avez retenues)?</h4>
+            <ul>
+                <li>Étude de projet/cas</li>
+                <li>Commandes windows et linux</li>
+                <li>Gestion d'utilisateur</li>
+                <li>Virtualisation</li>
+            </ul>
+            <h4>Pratiques (quels sont les logiciels que vous avez appris)?</h4>
+            <ul>
+                <li>CMD</li>
+                <li>Oracle VM VirtualBox</li>
+                <li>Windows</li>
+                <li>Linux</li>
+            </ul>
+            <h4>Conditionnelles (quels sont les projets que vous avez réalisés)?</h4>
+            <ul>
+                <li>Étude de cas</li>
+                <li>Virtualisation d'un serveur linux local avec LAMP</li>
+            </ul>            
+        </section>
+    </main>
+</body>
+
+</html>

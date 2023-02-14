@@ -1,0 +1,102 @@
+body {
+<<<<<<< HEAD
+  font-family: Arial, sans-serif;
+  margin: 0px;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: lightcoral;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+section {
+  width: 60%;
+  margin: 20px;
+  padding: 20px;
+  text-align: left;
+}
+=======
+    font-family: Arial, sans-serif;
+    margin: 0px;
+  }
+
+  section.sam{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: cornflowerblue;
+    padding: 50px;
+    border-radius: 20px;
+  }
+  
+  header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: lightcoral; 
+  }
+  
+  nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  nav li {
+    height: 35px;
+    margin-right: 20px;
+  }
+  
+  main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  section {
+    width: 60%;
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+  }
+
+
+
+
+  .william{
+    background-color: maroon;
+  }
+>>>>>>> main
