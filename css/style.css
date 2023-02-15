@@ -51,7 +51,27 @@ section {
   text-align: left;
 }
 
+section.miriame {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background-color: lightgreen;
+  padding: 50px;
+  border-radius: 10px;
+  
 
+}
+
+header.laure{
+  background-color: lightgreen;
+}
+header.laure a{
+  text-decoration: none;
+}
+header.laure a:hover{
+  color: blue;
+  font-size: 1.5rem;
+}
 
 
 .william {
